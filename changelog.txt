@@ -1,0 +1,28 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+  Info:
+    - Updated for Factorio v1.1
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 2020-09-10 14:17
+  Changes:
+    - Icon recropped to get slightly more readable.
+  Bugfixes:
+    - Fixed crash when entering a single newline and nothing else.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 2020-09-09 17:38
+  Changes:
+    - When writing a single line the combinators will no longer output a blank line of "spaces" below.
+      If you want a "blank" black line below then just make a new line under with a single space.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2020-09-09 16:04
+  Bugfixes:
+    - Setting the cursor to a Sign blueprint no longer destroys items held in cursor.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2020-09-09 15:22
+  Major Features:
+    - Initial beta release.
+
